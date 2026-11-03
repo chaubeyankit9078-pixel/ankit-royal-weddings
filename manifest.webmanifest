@@ -1,1 +1,26 @@
-{"name":"ANKIT ROYAL WEDDINGS","short_name":"Ankit Weddings","start_url":"./","scope":"./","display":"standalone","background_color":"#0b0906","theme_color":"#0b0906","icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"}]}
+{
+  "id": "./",
+  "name": "ANKIT ROYAL WEDDINGS",
+  "short_name": "Ankit Weddings",
+  "description": "Wedding and event booking enquiries",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101010",
+  "theme_color": "#101010",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
